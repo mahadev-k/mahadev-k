@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahadev K
-- 👀 I’m interested in Learning and Building things... Little bit curious 💡 on things.
+- 👀 I’m interested in Learning and Building things....
 - 🌱 I’m currently learning the art of programming 😁(BattleShip)
-- 💞️ I’m looking to collaborate on any open source projects or you are welcome to join with me as well. I am trying to build a microservice application. <React Js, Springboot, Any Tech You Wish !!!>.
+- 💞️ I’m looking to collaborate on any open source projects or you are welcome to join with me as well <Springboot, Angular, React Js Any Tech You Wish !!!>.
 - 📫 How to reach me ... Well you can reach me @ Vital Impulse#5440 <discord>
