@@ -2,4 +2,4 @@
 - 👀 I’m interested in Learning and Building things....
 - 🌱 I’m currently learning the art of programming 😁(BattleShip)
 - 💞️ I’m looking to collaborate on any open source projects or you are welcome to join with me as well <Springboot, Angular, React Js Any Tech You Wish !!!>.
-- 📫 How to reach me ... Well you can reach me @ Vital Impulse#5440 <discord>
+- 📫 How to reach me ... Well you can reach me @ VitalImpulse#5440 <discord>
