@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahadev K
 - 👀 I’m interested in Learning and Building things....
-- 🌱 I’m currently learning the art of programming 😁(BattleShip)
+- 🌱 I’m currently learning the art of programming 😎(BattleShip)
 - 💞️ I’m looking to collaborate on any open source projects or you are welcome to join with me as well <Springboot, Angular, React Js Any Tech You Wish !!!>.
 - 🧰 Languages and Tools:
 <p class="mt-3">
